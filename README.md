@@ -4,9 +4,9 @@ Linguagem de programção baseada nos grandes ensinamentos dos profissionais do 
 
 ## OlaMundo.renanzinho
 
-	IT'S SHOWTIME
-	TALK TO THE HAND "hello world"
-	YOU HAVE BEEN TERMINATED
+	TÁ COMEÇANDO MAIS UM CHOQUE DE CULTURA
+	IMPRIME AI SIMONE "olá mundo"
+	ACABOU O PROGRAMA!
 
 ## Keywords da linguagem
 
@@ -63,7 +63,7 @@ PlusOperator `MAIS`
 
 [BeginMain](http://www.youtube.com/watch?v=TKTL2EDTFSo) `TÁ COMEÇANDO MAIS UM CHOQUE DE CULTURA`
 
-[EndMain](http://www.youtube.com/watch?v=iy_BBBGBpqA) `ACABOU O PROGRAMA, ACABOU!`
+[EndMain](http://www.youtube.com/watch?v=iy_BBBGBpqA) `ACABOU O PROGRAMA!`
 
 [Print](http://www.youtube.com/watch?v=dQ6m8ztEzfA) `IMPRIME AI SIMONE`
 
